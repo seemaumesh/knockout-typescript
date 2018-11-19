@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "outDir": "./built/",
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "module": "amd",
+        "target": "es5"
+    },
+    "files": [
+        "./require-config.ts",
+        "./script/hello.ts",
+        "./script/home.ts"
+    ]
+}

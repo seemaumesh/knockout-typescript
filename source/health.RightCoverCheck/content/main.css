@@ -1,0 +1,10 @@
+.navbar,
+.modal-header,
+.hgh-btn {
+    background-color: rgba(195, 0, 0);
+    background-color: #C30000;
+}
+
+#reasonSelect {
+    width: 20%;
+}
